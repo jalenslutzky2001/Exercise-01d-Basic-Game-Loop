@@ -33,7 +33,7 @@ The final state of the file should be as follows (replacing my information with 
 ```
 # Exercise-01d-Basic-Game-Loop
 
-Exercise for MSCH-C220, 1 February 2021
+Exercise for MSCH-C220, 3 February 2021
 
 A basic interactive-fiction game engine, designed to render Twine projects exported with Twison, written in Python
 
@@ -51,5 +51,5 @@ None
 
 ## Created by
 
-Jason Francis
+Jalen Slutzky
 ```
